@@ -1,6 +1,4 @@
-# 3) Desenvolver um programa que verifique se um determinado ano é bissexto. Considere que,
-# para um ano ser bissexto ele deve ser divisível por 4, e ao mesmo tempo, deve ser divisível por
-# 400 ou não ser divisível por 100.
+
 
 ano = int(input('informe o ano: '))
 

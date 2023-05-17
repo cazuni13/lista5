@@ -1,5 +1,4 @@
-# 2) Desenvolva um programa que leia um número inteiro. Se o número informado for positivo,
-# imprimir sua raiz quadrada; se for negativo, o quadrado do número
+
 
 num = int(input('informe um número positivo ou negativo: '))
 

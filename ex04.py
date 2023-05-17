@@ -1,5 +1,3 @@
-# 4) Desenvolver um programa que receba como entrada três números. Determinar qual entre
-# estes três números é o maior.
 
 print('informe 3 números quaisquer')
 

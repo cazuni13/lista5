@@ -1,5 +1,4 @@
-#5) Desenvolva um programa que receba três valores inteiros, e determine se o menor valor é
-#par.
+
 
 print('insira 3 valores')
 
